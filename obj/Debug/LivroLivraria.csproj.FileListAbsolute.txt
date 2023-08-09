@@ -1,0 +1,8 @@
+C:\Users\dan_l\source\repos\Curso_C#\LivroLivraria\LivroLivraria\bin\Debug\LivroLivraria.exe.config
+C:\Users\dan_l\source\repos\Curso_C#\LivroLivraria\LivroLivraria\bin\Debug\LivroLivraria.exe
+C:\Users\dan_l\source\repos\Curso_C#\LivroLivraria\LivroLivraria\bin\Debug\LivroLivraria.pdb
+C:\Users\dan_l\source\repos\Curso_C#\LivroLivraria\LivroLivraria\obj\Debug\LivroLivraria.csproj.AssemblyReference.cache
+C:\Users\dan_l\source\repos\Curso_C#\LivroLivraria\LivroLivraria\obj\Debug\LivroLivraria.csproj.SuggestedBindingRedirects.cache
+C:\Users\dan_l\source\repos\Curso_C#\LivroLivraria\LivroLivraria\obj\Debug\LivroLivraria.csproj.CoreCompileInputs.cache
+C:\Users\dan_l\source\repos\Curso_C#\LivroLivraria\LivroLivraria\obj\Debug\LivroLivraria.exe
+C:\Users\dan_l\source\repos\Curso_C#\LivroLivraria\LivroLivraria\obj\Debug\LivroLivraria.pdb
